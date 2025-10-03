@@ -1,0 +1,10 @@
+nav {
+    background-color: rgb(183, 207, 167);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+}
